@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stas/CLionProjects/DateTime_Kostiukovych/main.cpp
+iostream
+-
+src/Date.h
+/home/stas/CLionProjects/DateTime_Kostiukovych/src/Date.h
+src/Time.h
+/home/stas/CLionProjects/DateTime_Kostiukovych/src/Time.h
+
+/home/stas/CLionProjects/DateTime_Kostiukovych/src/Date.h
+
+/home/stas/CLionProjects/DateTime_Kostiukovych/src/Time.h
+Date.h
+/home/stas/CLionProjects/DateTime_Kostiukovych/src/Date.h
+
